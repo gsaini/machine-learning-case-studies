@@ -1,0 +1,3 @@
+[submodule "case-studies/anime-rating/anime-rating-case-study"]
+	path = case-studies/anime-rating/anime-rating-case-study
+	url = https://github.com/gsaini/anime-rating-case-study
