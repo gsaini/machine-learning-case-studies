@@ -71,3 +71,9 @@ This repository contains examples and learning materials. Check each case-study 
 ## Reference Materials
 
 - [A guide on how to compare different models](https://people.duke.edu/~rnau/compare.htm)
+
+- [Document that explains what are decision tree, their working, and different impurity measures](https://tanthiamhuat.files.wordpress.com/2015/10/decision-tree-tutorial-by-kardi-teknomo.pdf)
+
+- [Sklearn - Decision Tree documentation [Documentation of decision trees that gives very concise information on the advantages and disadvantages of the Decision tree along with practical use case and mathematical formulation behind the algorithm]](https://scikit-learn.org/stable/modules/tree.html)
+
+- [An article that explains why and how class weights are used and also sheds light on how to find and assign class weights](https://machinelearningmastery.com/cost-sensitive-decision-trees-for-imbalanced-classification/)
