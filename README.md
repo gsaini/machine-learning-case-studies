@@ -70,6 +70,8 @@ This repository contains examples and learning materials. Check each case-study 
 
 ## Reference Materials
 
+### Decision Tree
+
 - [A guide on how to compare different models](https://people.duke.edu/~rnau/compare.htm)
 
 - [Document that explains what are decision tree, their working, and different impurity measures](https://tanthiamhuat.files.wordpress.com/2015/10/decision-tree-tutorial-by-kardi-teknomo.pdf)
@@ -77,3 +79,15 @@ This repository contains examples and learning materials. Check each case-study 
 - [Sklearn - Decision Tree documentation [Documentation of decision trees that gives very concise information on the advantages and disadvantages of the Decision tree along with practical use case and mathematical formulation behind the algorithm]](https://scikit-learn.org/stable/modules/tree.html)
 
 - [An article that explains why and how class weights are used and also sheds light on how to find and assign class weights](https://machinelearningmastery.com/cost-sensitive-decision-trees-for-imbalanced-classification/)
+
+### Clustering
+
+- [Sklearn's article that gives a detailed explanation of clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
+
+- [An article on Hierarchical Clustering, dendrograms, and how to decide the number of the clusters from it with Python code](https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/)
+
+- [An article on the concepts of different linkage methods and implementation of Hierarchical Clustering with Python code](https://www.analyticsvidhya.com/blog/2019/05/beginners-guide-hierarchical-clustering/)
+
+- [Sklearn's PCA documentation, code, and parameters used in the algorithms](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+
+- [Conceptual understanding of PCA, how it works, and where it is used](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
