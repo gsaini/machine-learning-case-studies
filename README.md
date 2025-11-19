@@ -91,3 +91,15 @@ This repository contains examples and learning materials. Check each case-study 
 - [Sklearn's PCA documentation, code, and parameters used in the algorithms](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 
 - [Conceptual understanding of PCA, how it works, and where it is used](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
+
+- [sklearn's module on clustering techniques, their mathematical formulation, and overview of clustering algorithms](https://scikit-learn.org/stable/modules/clustering.html)
+
+- [sklearn's documentation about selecting the number of clusters with silhouette analysis on K-means clustering](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html)
+
+- [Overview of K-means with code and detailed examples](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
+
+-[A web-based visualization of the t-SNE algorithm with a sample dataset](https://jefworks.github.io/tsne-online/)
+
+- [A mathematical deep-dive into the working of t-SNE](https://tivadardanka.com/blog/how-tsne-works)
+
+- [An intuitive explanation of the working and parameters of t-SNE with minimal mathematical details](https://medium.com/swlh/t-sne-explained-math-and-intuition-94599ab164cf)
