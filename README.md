@@ -98,7 +98,7 @@ This repository contains examples and learning materials. Check each case-study 
 
 - [Overview of K-means with code and detailed examples](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
 
--[A web-based visualization of the t-SNE algorithm with a sample dataset](https://jefworks.github.io/tsne-online/)
+- [A web-based visualization of the t-SNE algorithm with a sample dataset](https://jefworks.github.io/tsne-online/)
 
 - [A mathematical deep-dive into the working of t-SNE](https://tivadardanka.com/blog/how-tsne-works)
 
