@@ -25,6 +25,17 @@ Each case-study folder should ideally contain:
 - `data/` or CSV files (or pointers to download scripts) — small datasets or scripts to fetch larger datasets.
 - `requirements.txt` or `environment.yml` (optional) — dependencies for reproducibility.
 
+## Case Studies
+
+| Case Study | Description | ML Technique |
+|------------|-------------|--------------|
+| [Anime Rating Prediction](case-studies/anime-rating-case-study/) | Predict anime ratings based on various features | Linear Regression |
+| [Clustering Countries - Tourism Services](case-studies/clustering-countries-tourism-services/) | Segment countries based on tourism service data | Clustering |
+| [Gene Data Analysis](case-studies/gene-data/) | Analysis of genetic data patterns | Clustering/PCA |
+| [Hierarchical Clustering](case-studies/hierarchial-clustering/) | Demonstrate hierarchical clustering techniques | Hierarchical Clustering |
+| [Product Segmentation](case-studies/product-segmentation/) | Customer/product segmentation analysis | Clustering |
+| [Insurance Premium Prediction](case-studies/insurance-premium-prediction/) | Predict medical insurance charges based on customer attributes (age, BMI, smoking status, etc.) | Linear Regression |
+
 ## How to add a new case study
 
 1. Create a new folder under `case-studies/` with a descriptive name (kebab-case). Example:
